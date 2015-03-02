@@ -1,0 +1,7 @@
+# Java:
+*.class
+out
+*.iml
+*.jar
+percolation_testing
+.idea
